@@ -15,7 +15,7 @@
 "Found %d rows","Знайдено %d рядків"
 "Less than a minute","Менше хвилини"
 "Loaded successfully: ""%s""","Завантажено успішно: ""%s"""
-"Memory Used: %s","Використано пам'яті: %s"
+"Memory Used: %s","Використано пам’яті: %s"
 "Method ""%s"" not defined in adapter %s","Метод ""%s"" не заданий в адаптері %s"
 "Please declare ""adapter"" and ""method"" node first","Please declare ""adapter"" and ""method"" node first"
 "Processed records: %s","Обробені записи: %s"
